@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Harry Potter",
+    "role": "Student",
+    "house": "Gryffindor",
+    "blood": "Half-blood",
+    "birthday": "July 31, 1980"
+  },
+  {
+    "name": "Hermione Granger",
+    "role": "Student",
+    "house": "Gryffindor",
+    "blood": "Muggle-born",
+    "birthday": "September 19, 1979"
+  },
+  {
+    "name": "Ron Weasley",
+    "role": "Student",
+    "house": "Gryffindor",
+    "blood": "Pure-blood",
+    "birthday": "March 1, 1980"
+  }
+]
